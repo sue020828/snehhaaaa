@@ -1,0 +1,41 @@
+body{
+    background-image: url(./Aesthetic-Cloud-Wallpaper-HD.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.text{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+h1{
+    text-align: center;
+    font-family: caveat;
+    color: rgb(247, 106, 106)
+    
+}
+.hi{
+    font-size: 60px;
+    padding: 0;
+    border-bottom: 5px  solid salmon;
+}
+.btn{
+    
+    padding: 7px;
+    border-radius: 20%;
+    
+    font-family: caveat;
+    font-size: 2rem;
+    color:cornflowerblue;
+}
+.text1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    
+    
+
+}
